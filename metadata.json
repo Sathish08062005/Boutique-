@@ -1,0 +1,6 @@
+{
+  "name": "Ziva Boutique",
+  "description": "ZIVA THE DESIGNER BOUTIQUE - Premium catalog featuring Sarees, Bridal Wear, Lehengas, and more with elegant boutique admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Luxurious Golden Hanger and Gown Outline Representing Designer Boutique -->
+    
+    <!-- Hook -->
+    <path
+        android:strokeWidth="2.5"
+        android:strokeColor="#D4AF37"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M54,36 C54,34 50,30 50,26 C50,21 54,18 58,21 C61.5,23.5 59,28 56,29 C54.5,29.5 54,31 54,36 Z" />
+        
+    <!-- Hanger Triangle Body -->
+    <path
+        android:strokeWidth="3.0"
+        android:strokeColor="#D4AF37"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M54,36 L24,56 L84,56 Z" />
+        
+    <!-- Gown silhouette draping down -->
+    <path
+        android:strokeWidth="2.0"
+        android:strokeColor="#C5A059"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#15FFFFFF"
+        android:pathData="M38,56 L30,90 L78,90 L70,56 Z" />
+        
+    <!-- Decorative waist lace / sash -->
+    <path
+        android:strokeWidth="1.5"
+        android:strokeColor="#D4AF37"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M34,70 C44,72 64,72 74,70" />
+
+    <!-- Sparkles and accent beads -->
+    <path
+        android:fillColor="#F3E5AB"
+        android:pathData="M54,48 A1.5,1.5 0 1,1 54,45 A1.5,1.5 0 1,1 54,48 Z" />
+    <path
+        android:fillColor="#F3E5AB"
+        android:pathData="M40,78 A1.2,1.2 0 1,1 40,75.6 A1.2,1.2 0 1,1 40,78 Z" />
+    <path
+        android:fillColor="#F3E5AB"
+        android:pathData="M68,78 A1.2,1.2 0 1,1 68,75.6 A1.2,1.2 0 1,1 68,78 Z" />
+</vector>
